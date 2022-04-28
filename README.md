@@ -1,4 +1,4 @@
-Hi there, I'm Fabian
+Hi there, I'm Fabian!
 
 <img src="https://github-readme-stats.vercel.app/api?username=FabianMatata&show_icons=true&theme=radical" />
 
