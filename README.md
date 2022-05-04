@@ -1,4 +1,5 @@
-Hi there, I'm Fabian a Full Stack Web Developer.
+Hi there, I'm Fabian Matata a Full Stack Web Developer. <br>
+I Spend most of time coding outstanding projects.
 
 :mailbox: Reach me out!
 
@@ -12,8 +13,13 @@ Hi there, I'm Fabian a Full Stack Web Developer.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&layout=compact)](https://github.com/FabianMatata/github-readme-stats" />
 
-<!-- <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
- -->
+
+
+#### Skills & Technologies
+
+
+<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -31,4 +37,5 @@ Hi there, I'm Fabian a Full Stack Web Developer.
 <img align="left" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 
 
+#### Skills & Technologies
 
