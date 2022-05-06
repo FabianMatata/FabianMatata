@@ -24,8 +24,8 @@ I Spend most of time coding outstanding projects.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FabianMatata&show_icons=true&theme=radical" />
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ -->
 
 <!-- <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
