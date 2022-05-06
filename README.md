@@ -17,6 +17,8 @@ I Spend most of time coding outstanding projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&layout=compact)](https://github.com/FabianMatata/github-readme-stats)
 
+<!-- <img align="left" width="47%" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&layout=compact)](https://github.com/FabianMatata/github-readme-stats)" /> -->
+
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&hide=css,html,html)](https://github.com/FabianMatata/github-readme-stats" /> -->
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FabianMatata&show_icons=true&theme=radical" />
