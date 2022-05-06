@@ -13,7 +13,7 @@ I Spend most of time coding outstanding projects.
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&layout=compact)](https://github.com/FabianMatata/github-readme-stats" /> -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&hide=javascript,html)](https://github.com/FabianMatata/github-readme-stats" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&hide=html)](https://github.com/FabianMatata/github-readme-stats" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=FabianMatata&show_icons=true&theme=radical" />
 
